@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184296447128",
+    "project_id": "chaperoneapp",
+    "storage_bucket": "chaperoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184296447128:android:3612a69439de9215df04ed",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDHcis1pYqNVCL2ZdbDtkQkTdqUgLJ7pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
