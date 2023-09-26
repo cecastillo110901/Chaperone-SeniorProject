@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:184296447128:android:3612a69439de9215df04ed",
+        "mobilesdk_app_id": "1:184296447128:android:dbfdb250b0eb9405df04ed",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.chaperone.app"
         }
       },
       "oauth_client": [],
